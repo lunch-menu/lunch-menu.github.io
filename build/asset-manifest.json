@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lunch-menu/lunch-menu.git/static/css/main.fb35d48d.css",
+    "main.js": "/lunch-menu/lunch-menu.git/static/js/main.0dfc7eae.js",
+    "static/js/453.be17f830.chunk.js": "/lunch-menu/lunch-menu.git/static/js/453.be17f830.chunk.js",
+    "index.html": "/lunch-menu/lunch-menu.git/index.html",
+    "main.fb35d48d.css.map": "/lunch-menu/lunch-menu.git/static/css/main.fb35d48d.css.map",
+    "main.0dfc7eae.js.map": "/lunch-menu/lunch-menu.git/static/js/main.0dfc7eae.js.map",
+    "453.be17f830.chunk.js.map": "/lunch-menu/lunch-menu.git/static/js/453.be17f830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb35d48d.css",
+    "static/js/main.0dfc7eae.js"
+  ]
+}
